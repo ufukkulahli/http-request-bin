@@ -43,7 +43,7 @@ RETURNED RESPONSE: {
 
 ## Setup Custom Request and Response
 
-Use `reqResDefitions.json` file to setup expected incoming request and desired response to be returned. First item in the definitions file is for default use when there is no match for a request. Add your own mapping following the convention.
+Use `reqResDefinitions.json` file to setup expected incoming request and desired response to be returned. First item in the definitions file is for default use when there is no match for a request. Add your own mapping following the convention.
 
 ## Run
 
